@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div a{
+color: white;
+background-color: blueviolet;
+padding: 5px;
+text-decoration: none;
+}
+
+div a:hover {
+    background-color: darkviolet;
+    color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* Efeito de sombra */
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s; /* Suaviza a transição */
+}
