@@ -1,0 +1,15 @@
+{
+  "name": "meu_segundo_projeto",
+  "version": "1.0.0",
+  "description": "este definitivamente é um projeto\\",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}

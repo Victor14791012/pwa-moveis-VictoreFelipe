@@ -1,0 +1,63 @@
+col {
+	width: 18%;
+  
+}
+table {
+  text-align: center;
+  border-collapse: collapse;
+  width: 100%;
+}
+  .Intervalo {
+    background-color:#DDDDDD  ;
+    border: 4px solid #dddddd;
+    padding: 12px;
+    font-family: Calibri ;
+    
+
+  }
+  .Cabeçalho{
+  background-color: #63456B ;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', "Arial", "sans-serif";
+  padding: 5px;
+
+  }
+  th{
+    border: 3px solid #dddddd;
+
+  }
+td{
+ 
+  background-color: #F9F9F9;
+}
+.colunadehorário{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.titulo{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Fontecelula{
+
+  font-family: Calibri ;
+}
+abbr{
+font-family: Calibri ;
+
+
+
+
+}
+
+.texto{
+ font-family: Calibri ;
+
+  
+}
+
+.primeiraColuna{
+width: 10%;
+
+  
+}
