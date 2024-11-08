@@ -1,9 +1,19 @@
 {
-"name": "Minha primeira App Progressiva",
- "short_name": "Primeira PWA",
- "lang": "pt-BR",
-"start_url": "/index.html",
-"display": "standalone",
-"background_color": "white", 
-"theme_color": "white"
+    "name": "Minha pwa de horários da Turma info 6B",
+    "short_name": "Segunda PWA",
+    "icons": [
+       
+        {
+            "src": "images/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
 }
+
+
