@@ -3,6 +3,7 @@ let filesToCache = ["/",
                 "/index", 
                 "/pe", 
                 "/horario", 
+                "/page.css", 
                 "/css/style.css",
                 "/js/main.js"
   ];
